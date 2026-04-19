@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in Minnesota, US",
-  "export_job_id": "e9ba8668-a458-4d55-acaa-5f19c0ef2dc7",
+  "export_job_id": "9cad07e0-0b59-46d3-afef-616d77ed0409",
   "github_org": "Beamstation-Datasets",
   "id_short": 360567,
   "location_name": "Minnesota",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-minnesota-us-sample-360567",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/360567/beamstation_360567_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_pct": 9.68,
+  "sample_pct": 10.0,
   "sample_records": 12,
-  "sample_sha256": "c54781700751a3dd668e270ab3a299c75a186a929b9ea6247c30806d52866039",
-  "sample_size_bytes": 61088,
-  "total_records": 124,
-  "updated_at": "2026-04-08T06:51:57.468286+00:00"
+  "sample_sha256": "5cd397cee4fb226be920e8253952313a96bcdb99be3be4a6f6f7f39800a43819",
+  "sample_size_bytes": 60154,
+  "total_records": 120,
+  "updated_at": "2026-04-15T10:23:15.262682+00:00"
 }
