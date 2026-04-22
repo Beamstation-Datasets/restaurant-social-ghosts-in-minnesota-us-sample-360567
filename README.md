@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Minnesota, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `360567` |
 | Location | Minnesota |
 | Category | Restaurants |
-| Full dataset size | 120 records |
-| Free sample size | 12 records (10.0%) |
-| Last export | 2026-04-15T10:23:15.262682+00:00 |
+| Full dataset size | 29 records |
+| Free sample size | 2 records (6.9%) |
+| Last export | 2026-04-22T17:52:20.851854+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-minnesota-us-sample-360567/releases/download/sample-latest/beamstation_360567_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
