@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4332f4e2-5fe0-499d-bc80-71d6d49f5d52",
+  "export_job_id": "3fe268ff-a50e-42a6-83d6-fba8bbb39c07",
   "id_short": 360567,
-  "published_at": "2026-04-22T19:37:37Z",
+  "published_at": "2026-04-30T07:20:14Z",
   "repo_name": "restaurant-social-ghosts-in-minnesota-us-sample-360567",
   "sample_asset_name": "beamstation_360567_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/360567/beamstation_360567_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "c45689cb9595e6f038407c1986bfa4302d84ab0969a45b6cb7277f208078d796",
-  "sample_size_bytes": 23865,
-  "total_records": 29
+  "sample_records": 8,
+  "sample_sha256": "d58901238445ae597aa382e124788bd9f04a4f4fe01a3a99a7625497b5e2f3e7",
+  "sample_size_bytes": 42934,
+  "total_records": 87
 }
